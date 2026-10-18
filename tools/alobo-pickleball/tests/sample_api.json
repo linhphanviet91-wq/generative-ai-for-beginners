@@ -1,0 +1,13 @@
+{"url": "https://api.example/matches", "body": {"data": {"items": [
+  {"id": 1, "title": "Xé vé giao lưu newbie", "startTime": "2026-10-19T19:00:00", "endTime": "2026-10-19T21:00:00",
+   "level": "Mới chơi dưới 3 tháng", "price": 80000, "remaining": 3,
+   "venue": {"name": "Pickleball 63 Nguyễn Huy Tưởng", "address": "63 Nguyễn Huy Tưởng, Thanh Xuân", "lat": 20.9985, "lng": 105.8049}},
+  {"id": 2, "title": "Kèo trình 3.5+", "startTime": "2026-10-19T19:00:00", "level": "3.5", "price": 100000,
+   "venue": {"name": "Sân G.S77", "address": "Ngõ 12 Khuất Duy Tiến", "lat": 20.9973, "lng": 105.7990}},
+  {"id": 3, "title": "Tập máy bắn bóng 1 người", "startTime": "2026-10-19T18:00:00", "description": "Thuê slot có máy bắn bóng",
+   "venue": {"name": "Sân Pickleball Thanh Xuân", "address": "164 Khuất Duy Tiến", "lat": 20.9940, "lng": 105.8000}},
+  {"id": 4, "title": "Newbie Long Biên", "startTime": "2026-10-19T19:00:00", "level": "Newbie",
+   "venue": {"name": "Sân Long Biên", "address": "Long Biên", "lat": 21.0450, "lng": 105.8900}},
+  {"id": 5, "title": "Newbie sáng sớm", "startTime": "2026-10-19T06:00:00", "level": "newbie",
+   "venue": {"name": "Sân Nhân Chính", "address": "Nhân Chính", "lat": 21.0030, "lng": 105.8050}}
+]}}}

@@ -1,0 +1,17 @@
+{
+  "home": {
+    "label": "Hapulico, 1 Nguyễn Huy Tưởng",
+    "lat": 20.9992,
+    "lng": 105.8063
+  },
+  "radius_km": 3,
+  "start_urls": [
+    "https://www.alobo.vn/"
+  ],
+  "nearby_streets": [
+    "Nguyễn Huy Tưởng", "Vũ Trọng Phụng", "Khuất Duy Tiến", "Nguyễn Tuân",
+    "Lê Văn Lương", "Nguyễn Trãi", "Ngụy Như Kon Tum", "Hoàng Minh Giám",
+    "Quan Nhân", "Nhân Chính", "Thanh Xuân Trung", "Thượng Đình",
+    "Hoàng Đạo Thúy", "Lê Văn Thiêm", "Hạ Đình", "Royal City", "Ngã Tư Sở"
+  ]
+}

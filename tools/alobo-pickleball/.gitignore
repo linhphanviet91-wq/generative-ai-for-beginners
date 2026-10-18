@@ -1,0 +1,4 @@
+.browser-profile/
+dumps/
+__pycache__/
+.pytest_cache/
